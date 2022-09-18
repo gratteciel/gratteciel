@@ -3,6 +3,10 @@
 <!--
 **gratteciel/gratteciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+*I'm in 2nd year of the engineering cycle* 
+
+## Social network : 
+<a href: "https://www.linkedin.com/in/emilian-mitu-3142501b8/"><img align="center" src = "linkedin.svg" alt="My linkedin">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

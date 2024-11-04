@@ -1,5 +1,5 @@
 # Emilian MITU 
-## I'm in 2nd year of the engineering cycle ##
+## Open to New Opportunities – Let's Connect! ##
 
 
 ### Social network : 
